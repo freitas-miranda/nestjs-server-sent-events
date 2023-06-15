@@ -1,6 +1,6 @@
 # compiled output
-nestjs-sse/dist
-nestjs-sse/node_modules
+/dist
+/node_modules
 
 # Logs
 logs
@@ -15,11 +15,11 @@ lerna-debug.log*
 .DS_Store
 
 # Tests
-nestjs-sse/coverage
-nestjs-sse/.nyc_output
+/coverage
+/.nyc_output
 
 # IDEs and editors
-nestjs-sse/.idea
+/.idea
 .project
 .classpath
 .c9/
