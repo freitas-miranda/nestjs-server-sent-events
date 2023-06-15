@@ -30,3 +30,11 @@ npx nest g controller reports/reports
 
 # Adicionar lib bull para agendar execuções
 npm install @nestjs/bull bull
+
+# Adicionar bars
+npm install hbs
+
+# Liberar porta em uso
+npx kill-port 3000
+lsof -i tcp:3000
+kill -9 PID
