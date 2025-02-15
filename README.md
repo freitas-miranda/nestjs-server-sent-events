@@ -1,4 +1,4 @@
-# nestjs-server-sent-events
+# Utilização de Server-Sent Events (SSE)
 
 - Projeto desenvolvido para demonstrar a utilização de Server-Sent Events (SSE) com NestJS para construção de aplicações em tempo real.
 - Este exemplo utiliza o NestJS para subir a aplicação e gerenciar os módulos, que por sua vez preparam os eventos SSE para atualização contínua dos dados.
